@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>io.jsonwebtoken</groupId
+	<artifactId>jjwt-api</artifactId
+	<version>0.11.5</version
+</dependency>
+```
